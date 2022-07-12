@@ -57,6 +57,5 @@ fi
 #xterm -geometry 80x20+494-0 &
 #exec xterm -geometry 80x66+0+0 -name login
 #exec /usr/bin/prime-offload
-bash /home/ajata/scripts/disable-touchpad.sh &
 picom -f --no-fading-openclose &
 exec /usr/bin/i3
