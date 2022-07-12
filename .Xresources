@@ -1,0 +1,62 @@
+!! Colorscheme
+
+! special
+*.foreground: #a9b1d6
+*.background: #11121d
+*.cursorColor: #afbfbf
+
+! black
+*.color0: #32344a
+*.color8: #444b6a
+
+! red
+*.color1: #f7768e
+*.color9: #ff7a93
+
+! green
+*.color2: #9ece6a
+*.color10: #b9f27c
+
+! yellow
+*.color3: #e0af68
+*.color11: #ff9e64
+
+! blue
+*.color4: #7aa2f7
+*.color12: #7da6ff
+
+! magenta
+*.color5: #696ebf
+*.color13: #8086e8
+
+! cyan
+*.color6: #289c93
+*.color14: #33c5ba
+
+! white
+*.color7: #bfbaac
+*.color15: #fdf6e3
+
+*.font: xft:Overpass Mono:size=12.5
+
+Xft.dpi:                        96
+Xft.antialias:                  1
+Xft.autohint:                   1
+Xft.hinting:                    1
+Xft.hintstyle:                  hintslight
+Xft.lcdfilter:                  lcdlight
+Xft.rgba:                       rgb
+
+URxvt*termName:                 rxvt-256color
+URxvt.depth:                    32
+URxvt*lineSpace:                1
+URxvt.letterSpace:              -1
+URxvt.iso14755:                 false
+URxvt.iso14755_52:              false
+URxvt*geometry:                 65x17
+URxvt.scrollBar:                false
+URxvt*loginShell:               true
+URxvt.internalBorder:           25
+URxvt.perl-ext:	 		default,matcher
+URxvt.url-launcher:             firefox-developer-edition
+URxvt.matcher.button: 		1

@@ -1,0 +1,5 @@
+defaults.bluealsa {
+	service "org.bluealsa"
+	device "B0:F1:A3:59:E7:C5"
+	profile "a2db"
+}
