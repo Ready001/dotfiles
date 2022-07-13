@@ -10,6 +10,7 @@ Hi, these are my dotfiles for my personal computer which is running Arch Linux. 
 * File Manager: Ranger
 * Menu: dmenu
 * Browser: firefox-developer-edition
+* * Notable extensions: Dark Reader, nightTab, uBlockOrigin, Beautiful Red Blur theme.
 * IDE: vscodium
 * Text Editor: vim
 * Package Manager: Yay and Pacman
