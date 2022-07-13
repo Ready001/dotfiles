@@ -7,6 +7,8 @@ Desktop Environment: none
 Task Manager: none, I just use ps and kill
 Status Bar: Polybar
 Terminal: alacritty
+File Manager: Ranger
+Menu: dmenu
 Browser: firefox-developer-edition
 IDE: vscodium
 Text Editor: vim
