@@ -4,7 +4,6 @@ Hi, these are my dotfiles for my personal computer which is running Arch Linux. 
 * OS: Arch Linux
 * Window Manager: i3-gaps
 * Desktop Environment: none
-* Task Manager: none, I just use ps and kill
 * Status Bar: Polybar
 * Terminal: alacritty
 * File Manager: Ranger
@@ -17,6 +16,7 @@ Hi, these are my dotfiles for my personal computer which is running Arch Linux. 
 * Audio: Pulseaudio
 * Network Manager: NetworkManager
 * Video Player: mpv and vlc
+* Compositor: Picom
 
 # Screenshots
 <a href="https://imgur.com/FA9Ns70"><img src="https://i.imgur.com/FA9Ns70.jpg" title="source: imgur.com" /></a>
